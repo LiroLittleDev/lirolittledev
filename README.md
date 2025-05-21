@@ -1,4 +1,4 @@
-# Olá! Meu nome é Thiago, estudante de desenvolvimento em busca de se tornar um dev fullstack!
+# Olá! Meu nome é Thiago, estudante de analise e desenvolvimento de sistemas!
 
 <table>
   <a href="https://github.com/lirolittledev">
